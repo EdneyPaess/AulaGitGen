@@ -1,3 +1,5 @@
 Esta linha foi inserida na branch ramo1
 
 Esta linha foi inserida na branch ramo1
+
+Esta linha vai gerar um conflito.
